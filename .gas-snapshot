@@ -1,0 +1,8 @@
+FundmeTest:testDepositFromARanomUser() (gas: 100033)
+FundmeTest:testIfTheArrayGetsResetedAfterTheOwnerWinthraw() (gas: 84771)
+FundmeTest:testIfTheBalancesGetsResetedAfterTheOwnerWinthraw() (gas: 84992)
+FundmeTest:testIfTheOwnerRecievesItsPaymentWhenAfterWithrawing() (gas: 85580)
+FundmeTest:testToCheckIfFunderGetsAddedToFundersArray() (gas: 101133)
+FundmeTest:testToCheckIfTheBalanceOfAUserGetUpdatedAfterTheyDeposit() (gas: 100959)
+FundmeTest:testWinthrawFromARanomUserWhoIsNotTheOwner() (gas: 100931)
+FundmeTest:testWinthrawFromTheOwner() (gas: 84416)
